@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Haiou Chen coffeeapp01</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="topping">Topping</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Whipped">Whipped Cream</string>
+    <string name="button_email">Send Email</string>
+    <string name="text_order_details">Your order details</string>
+    <string name="save">Save Data</string>
+    <string name="Report">Sales Report</string>
+    <string name="reorder">Reorder</string>
+</resources>
